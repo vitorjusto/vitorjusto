@@ -1,7 +1,7 @@
 #### Olá, meu nome é Vitor Hugo Cardoso Justo, também conhecido como Vitorjusto
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorjusto&show_icons=true&theme=tokioNight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorjusto&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorjusto&layout=compact&langs_count=7&theme=tokioNight"/>
 
 ### Principais Linguagens:
 

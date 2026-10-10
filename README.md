@@ -1,3 +1,5 @@
+Hello, My name is Vitorjusto
+
 ### Using Tools:
 
 <div style="display: inline_block" align="center"><br>
@@ -9,3 +11,11 @@
 <img align="center" alt="C#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 <img align="center" alt="Visual Basic" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg">
  </div>
+
+ ### Learning:
+<div style="display: inline_block" align="center"><br>
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+</div>
